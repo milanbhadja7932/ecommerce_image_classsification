@@ -3,6 +3,8 @@
 What is the Pre-trained Model?
 A pre-trained model has been previously trained on a data set and contains the weights that represent the features of whichever data set it was trained on. Learned features are often transferable to different data.
 
+![alt text](http://url/to/img.png)
+
 Convolutional neural networks (CNN) are computing systems inspired by the biological neural networks that constitute animal brains. Such systems learn (progressively improve their ability) to do tasks by considering examples, generally without task-specific programming. For example, they might learn to identify images that contain cats analyzing example images that have been manually labeled as “cat” or “no cat” and using the analytic results to identify cats in other images. Labelling typically takes a set of unlabelled data and augments each piece of that unlabelled data with meaningful tags that are informative.
 
 THESE ARE THE STEPS:
